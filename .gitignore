@@ -24,3 +24,9 @@ web_custom_versions/
 openapi.yaml
 filtered-openapi.yaml
 uv.lock
+hygiene_check.py
+launch.py
+python
+rxx.py
+test_compile.py
+tsl.py
